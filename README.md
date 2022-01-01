@@ -1,6 +1,6 @@
 ## Sparks GRIP Internship Program
 <hr>
-## Task
+<h2>Task</h2>
 Prediction Using Supervised Learning
 ## Todos:
 <ol>
