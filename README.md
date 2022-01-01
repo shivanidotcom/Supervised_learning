@@ -1,8 +1,8 @@
 ## Sparks GRIP Internship Program
 <hr>
-# Task
+## Task
 Prediction Using Supervised Learning
-# Todos:
+## Todos:
 <ol>
   <li>Predict the percentage of an student based on the no. of study hours.
     </li>
